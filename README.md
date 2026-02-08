@@ -51,5 +51,5 @@ Per executar aquest projecte en local, segueix aquests passos:
 5.  Obre [http://localhost:3000](http://localhost:3000) al teu navegador.
 
 ---
-**Autor:** [El teu Nom i Cognom]
+**Autor:** [Pol Plana Blay]
 **Assignatura:** Disseny d'Interfícies Web / Multimèdia

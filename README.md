@@ -2,7 +2,7 @@
 
 Aquest projecte és una Single Page Application (SPA) desenvolupada amb **React** que té com a objectiu promocionar el turisme a la ciutat de Girona, destacant el seu patrimoni històric, cultural i natural mitjançant l'ús d'elements multimèdia interactius.
 
-## 📋 A. Estructura de la Pàgina (Wireframe)
+##  A. Estructura de la Pàgina (Wireframe)
 
 L'aplicació segueix una estructura vertical fluida dividida en quatre seccions principals:
 
@@ -13,7 +13,7 @@ L'aplicació segueix una estructura vertical fluida dividida en quatre seccions 
     * Una galeria multimèdia organitzada en columnes (Flexbox) que integra imatge, vídeo i àudio.
 4.  **Peu de Pàgina (Footer):** Informació de contacte, enllaços a xarxes socials i crèdits del desenvolupador.
 
-## Media 🎨 B. Funcionalitats i Elements Multimèdia
+## Media  B. Funcionalitats i Elements Multimèdia
 
 El projecte integra i gestiona diferents formats de fitxers, optimitzats per a la web:
 
@@ -23,7 +23,7 @@ El projecte integra i gestiona diferents formats de fitxers, optimitzats per a l
     * A la secció *Multimèdia*, el vídeo inclou controls de reproducció perquè l'usuari pugui interactuar-hi. El fitxer ha estat retallat i comprimit per garantir una càrrega ràpida.
 * **Àudio (Ambient Natural):** S'ha afegit un reproductor d'àudio que permet a l'usuari escoltar sons ambientals de la ciutat i la natura (Parc de la Devesa), completant l'experiència immersiva.
 
-## 🛠️ C. Desenvolupament Tècnic
+##  C. Desenvolupament Tècnic
 
 El projecte ha estat creat utilitzant l'entorn de treball **React**:
 
@@ -34,7 +34,7 @@ El projecte ha estat creat utilitzant l'entorn de treball **React**:
 
 ---
 
-### 🚀 Instruccions d'Instal·lació
+###  Instruccions d'Instal·lació
 
 Per executar aquest projecte en local, segueix aquests passos:
 
